@@ -15,7 +15,7 @@
                 "assets/CarImages/mustangWhite/mustangblanco6.webp",
                 "assets/CarImages/mustangWhite/mustangblanco7.webp"
             ],
-            "price" : 120,
+            "price" : 90,
             "passengers": 4,
             "luggageCapacity": 1,
             "carryOnCapacity": 1,
@@ -38,7 +38,7 @@
                 "assets/CarImages/mustangRed/mustangrojo7.webp"
 
             ],
-            "price" : 120,
+            "price" : 90,
             "passengers": 4,
             "luggageCapacity": 1,
             "carryOnCapacity": 1,
@@ -59,7 +59,7 @@
                 "assets/CarImages/porscheMacan/porschemacan6.webp",
                 "assets/CarImages/porscheMacan/porschemacan7.webp"
             ],
-            "price" : 130,
+            "price" : 120,
             "passengers": 5,
             "luggageCapacity": 2,
             "carryOnCapacity": 2,
@@ -78,7 +78,7 @@
                 "assets/CarImages/vwGolfGTI/vwgolf3.webp",
                 "assets/CarImages/vwGolfGTI/vwgolf4.webp"
             ],
-            "price" : 100,
+            "price" : 85,
             "passengers": 5,
             "luggageCapacity": 1,
             "carryOnCapacity": 2,
@@ -100,7 +100,7 @@
                 "assets/CarImages/vwPassat/vwpassat6.webp",
                 "assets/CarImages/vwPassat/vwpassat7.webp"
             ],
-            "price" : 50,
+            "price" : 45,
             "passengers": 5,
             "luggageCapacity": 2,
             "carryOnCapacity": 2,
